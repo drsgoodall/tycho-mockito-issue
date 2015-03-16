@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Example Plug-in
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-SymbolicName: com.example.plugin
+Bundle-Version: 1.0.0.qualifier
+Requre-Bundle: org.mockto.mockito-all
+

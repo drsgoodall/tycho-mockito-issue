@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-SymbolicName: com.example.tests
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.junit;bundle-version="4.8.2",
+ org.mockito.mockito-all;bundle-version="1.9.5"
+
